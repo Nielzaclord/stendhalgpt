@@ -1,0 +1,2 @@
+# stendhalgpt
+A ChatGPT detector.
